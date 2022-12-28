@@ -28,5 +28,18 @@
 ## Waka Time
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+**I Mostly Code in C** 
+
+```text
+C                        3 repos             ████████████░░░░░░░░░░░░░   50.0% 
+Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Shell                    1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+
+```
+
+
+
+ Last Updated on 28/12/2022 14:12:59 UTC
 <!--END_SECTION:waka-->
