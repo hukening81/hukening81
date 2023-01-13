@@ -3,7 +3,7 @@
 ## About Me
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tokyo469&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+  <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tokyo469&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
 
 - 🌱 I’m currently learning C++, Machine Learning
@@ -17,7 +17,6 @@
 ![](https://img.shields.io/badge/-C++-00579c?style=flat-square&logo=cplusplus&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff)
-![](https://img.shields.io/badge/-Next.js-717171?style=flat-square&logo=next.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
