@@ -6,8 +6,8 @@
   <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tokyo469&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
 
-- 🌱 I’m currently learning C++, Machine Learning
-- 🤔 I’m looking for help with organize clubs
+- 🌱 I’m currently learning C, Kotlin, Machine Learning
+- 🤔 I’m looking for help with organizing clubs
 - 💬 Ask me about [FrontierDecipherer](https://github.com/FrontierDecipherer)
 - 📫 How to reach me: hukening8@gmail.com
 
