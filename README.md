@@ -26,7 +26,7 @@
 ## Waka Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2017%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -60,5 +60,5 @@ C#                       1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 23/04/2023 00:29:01 UTC
+ Last Updated on 24/04/2023 00:26:45 UTC
 <!--END_SECTION:waka-->
