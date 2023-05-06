@@ -34,17 +34,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 33 mins             █████████████████████████   99.73 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-noticeboard              33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -58,5 +57,5 @@ C#                       1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 05/05/2023 00:24:28 UTC
+ Last Updated on 06/05/2023 00:24:08 UTC
 <!--END_SECTION:waka-->
