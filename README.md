@@ -7,7 +7,7 @@
 </a>
 
 - 🌱 I’m currently learning C, Kotlin, Machine Learning
-- 🤔 I’m looking for help with organizing clubs
+- 🤔 I’m looking for help with organizing clubs, full workflow with software engineering.
 - 💬 Ask me about [FrontierDecipherer](https://github.com/FrontierDecipherer)
 - 📫 How to reach me: hukening8@gmail.com
 
@@ -20,8 +20,6 @@
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
-
-> 并不是很熟练
 
 ## Waka Time
 
