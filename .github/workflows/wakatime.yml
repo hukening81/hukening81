@@ -1,10 +1,10 @@
 # modified base on https://github.com/yanyongyu/yanyongyu/blob/master/.github/workflows/wakatime.yml
 name: Waka Readme
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     - cron: '0 0 * * *'
 
 jobs:
   update-readme:
