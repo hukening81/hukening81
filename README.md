@@ -1,60 +1,56 @@
 # Hi, hukening there 👋
 
-## About Me
+## Me?
 
-<a href="#">
-  <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tokyo469&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
-</a>
+Me a senior high school student from Earth.
 
-- 🌱 I’m currently learning C, Kotlin, Machine Learning
+- 🌱 I’m currently learning Machine Learning, Music Produce
 - 🤔 I’m looking for help with organizing clubs, full workflow with software engineering.
 - 💬 Ask me about [FrontierDecipherer](https://github.com/FrontierDecipherer)
-- 📫 How to reach me: hukening8@gmail.com
+- 📫 How to reach me: [hukening8@gmail.com](mailto:hukening8@gmail.com)
 
-## Tags
+## Interested About
+- Language, Culture, History
+- Avation, Aerospace, Racing Car
+- Music, Painting
 
-![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-C++-00579c?style=flat-square&logo=cplusplus&logoColor=fff)
-![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
-![](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
-![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
+<details>
+  <summary>
+    <h2>My Career</h2>
+  </summary>
+<details>
+  <summary><h3>Programming Language</h3></summary>  
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"></a></code>
+<code><a href="https://isocpp.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></a></code>
+<code><a href="https://www.w3schools.com/sql/" target="_blank"><img height="30" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg"></a></code>
+</details>
 
-## Waka Time
+  <details>
+  <summary><h3>Editor</h3></summary>  
+<code><a href="https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3" target=" blank"><img height="35" src="https://store-images.s-microsoft.com/image/apps.64641.13825011251621706.e8a531ea-e643-41b9-8969-8a0182f70030.d943169b-2e61-4261-897a-cbf29d890cc7?w=120" /></a></code>
+<code><a href="https://code.visualstudio.com/" target=" blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /></a></code>
+<code><a href="https://visualstudio.microsoft.com/" target=" blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" /></a></code>
+<code><a href="https://www.vim.org/" target=" blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" /></a></code>
+</details>
+</details>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2031%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-Python                   3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-CMake                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C#                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-```
-
-
-
-
- Last Updated on 01/08/2023 00:32:32 UTC
-<!--END_SECTION:waka-->
+## Contact Me
+<p>
+  <a href="mailto:systakineko.tfs@gmail.com">
+    <img align="left" alt="Kening Hu | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
+  </a>
+  <a href="https://twitter.com/KeningHu">
+    <img align="left" alt="Kening Hu | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
+  </a>
+   <a href="https://github.com/Tokyo469">
+    <img align="left" alt="Kening Hu | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+   <a href="https://www.youtube.com/@KeningHu">
+    <img align="left" alt="Kening Hu | YouTube" width="26px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
+  </a>
+  <br>
+</p>
