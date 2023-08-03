@@ -1,7 +1,5 @@
 # Hi, hukening there 👋
 
-## Me?
-
 Me a senior high school student from Earth.
 
 - 🌱 I’m currently learning Machine Learning, Music Produce
