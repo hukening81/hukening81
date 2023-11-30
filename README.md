@@ -2,14 +2,14 @@
 
 Me a senior high school student from Earth.
 
-- 🌱 I’m currently learning Machine Learning, Music Produce
-- 🤔 I’m looking for help with organizing clubs, full workflow with software engineering.
-- 💬 Ask me about [FrontierDecipherer](https://github.com/FrontierDecipherer)
+- 🌱 I’m currently learning Machine Learning, Music Produce, Painting
+- 🤔 I’m looking for help with organizing clubs, engineering tips
+- 💬 Ask me about [粉墨战队|PiSquad](https://github.com/FrontierDecipherer)
 - 📫 How to reach me: [hukening8@gmail.com](mailto:hukening8@gmail.com)
 
 ## Interested About
 - Language, Culture, History
-- Avation, Aerospace, Racing Car
+- Aviation, Aerospace, F1
 - Music, Painting
 
 <details>
