@@ -12,6 +12,12 @@ Me a senior high school student from Earth.
 - Aviation, Aerospace, F1
 - Music, Painting
 
+## My Life Goals
+I have a broad range of hobbies, I want to know everything just to get understanding of how this world being operated.  
+I will mainly focus on astronomy and engineering for career.  
+Working for charity is needed for helping children like me.  
+
+
 <details>
   <summary>
     <h2>My Career</h2>
