@@ -20,7 +20,7 @@ Working for charity is needed for helping children like me.
 
 <details>
   <summary>
-    <h2>My Career</h2>
+    <h2>My Skills</h2>
   </summary>
 <details>
   <summary><h3>Programming Language</h3></summary>  
