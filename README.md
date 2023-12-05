@@ -15,7 +15,7 @@ Me a senior high school student from Earth.
 ## My Life Goals
 I have a broad range of hobbies, I want to know everything just to get understanding of how this world being operated.  
 I will mainly focus on astronomy and engineering for career.  
-Working for charity is needed for helping children like me.  
+Working for charity is necessary for helping children like me.  
 
 
 <details>
