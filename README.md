@@ -1,6 +1,6 @@
 # Hi, hukening there 👋
 
-Me a senior high school student from Earth.
+Me a high school student from Earth.
 
 - 🌱 I’m currently learning Machine Learning, Music Produce, Painting
 - 🤔 I’m looking for help with organizing clubs, engineering tips
