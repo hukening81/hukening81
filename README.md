@@ -4,8 +4,8 @@ Me a high school student from Earth.
 
 - 🌱 I’m currently learning Machine Learning, Music Produce, Painting
 - 🤔 I’m looking for help with organizing clubs, engineering tips
-- 💬 Ask me about [粉墨战队|PiSquad](https://github.com/FrontierDecipherer)
-- 📫 How to reach me: [hukening8@gmail.com](mailto:hukening8@gmail.com)
+- 💬 Ask me about [粉墨战队|PiSquad](https://github.com/ThePiSquad)
+- 📫 How to reach me: [kening.hu@outlook.com](mailto:kening.hu@outlook.com)
 
 ## Interested About
 - Language, Culture, History
@@ -44,7 +44,7 @@ Working for charity is necessary for helping children like me.
 
 ## Contact Me
 <p>
-  <a href="mailto:systakineko.tfs@gmail.com">
+  <a href="mailto:kening.hu@outlook.com">
     <img align="left" alt="Kening Hu | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
   </a>
   <a href="https://twitter.com/KeningHu">
