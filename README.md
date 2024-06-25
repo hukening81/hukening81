@@ -38,4 +38,4 @@ I want to be a Astronomy/Mechanical Engineer in the future.
 - Email: [kening.hu@outlook.com](mailto:kening.hu@outlook.com)
 - Twitter(X if you like): [Kening Hu](https://twitter.com/KeningHu)
 - Youtube: [@KeningHu](https://www.youtube.com/@KeningHu)
-- GPG: `3C490AFEA9C712A045660060BB0DD23E4EAA1B96`
+- GPG: ~`3C490AFEA9C712A045660060BB0DD23E4EAA1B96`~ I just lost my private key :(
