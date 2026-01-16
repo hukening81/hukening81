@@ -1,9 +1,14 @@
-Should spend more time coding rather than polishing Github profile
+# Contact me via:
+- discord: `hukening`(primary)
+- email: `hukening81@gmail.com` (check irregularly)
 
-I use Linux(arch) for pragmatic reasons, mainly for its Tiling Window Manager( or compositor). 
+# Language
+- Mandrain
+- English (messaging is fine, but not conversation)
 
-I like Rust for its easy to use toolchain(for my dumb brain), relatively large 3rd party libs and abled to used as a system programming language
+# Setup
+- Laptop: ASUS TUF Gaming A15 FA507RM_FA507RM (cyan edition)
+- Archlinux with [Hyprland](https://hypr.land/)
 
-
-
-![](https://github-readme-stats.vercel.app/api?username=hukening81&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+# Projects
+- [Counter Strike Grenades](https://github.com/thepisquad/counterstrikegrenades)
