@@ -1,6 +1,7 @@
 # Contact me via:
 - discord: `hukening`(primary)
 - email: `hukening81@gmail.com` (check irregularly)
+- GPG Key: `17C80923EC53B89B`
 
 # Language
 - Mandrain
