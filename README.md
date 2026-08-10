@@ -9,7 +9,7 @@
 
 # Setup
 - Laptop: ASUS TUF Gaming A15 FA507RM_FA507RM (cyan edition)
-- Archlinux with [Hyprland](https://hypr.land/)
+- Gentoo with [Hyprland](https://hypr.land/)
 
 # Projects
 - [Counter Strike Grenades](https://github.com/thepisquad/counterstrikegrenades)
